@@ -1,5 +1,7 @@
-node_modules/otraNota.txt
+node_modules/
 *.txt
+index.html
+
 
 
 
